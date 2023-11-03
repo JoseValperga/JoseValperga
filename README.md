@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 ## Tecnologías:
+<!--
 ![JavaScript](https://img.freepik.com/vector-premium/diseno-computadora-sobre-fondo-azul-ilustracion-vectorial_24908-44354.jpg){width=300}
+-->
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
