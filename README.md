@@ -6,7 +6,7 @@ A lo largo de mi vida laboral he adquirido experiencia con distintos modelos de 
 En mis comienzos, he desarrollado software para PYMES, enfocándome en la gestión empresarial, obteniendo un Master en Dirección de Empresas. Actualmente he potenciado mis experiencias capacitándome en tecnologías para brindar soluciones IT: React.js, JavaScript, Node.js, Express, Sequalize, PostgreSQL, MySql, HTML, CSS, Microsoft Power BI y Tableau y Microsoft Excel.
 
 Mi objetivo es continuar mi vida laboral en empresas me permitan aportar toda esa experiencia, agregando valor a la toma de decisiones desde los datos y la tecnología.
-
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <!--
 **JoseValperga/JoseValperga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
