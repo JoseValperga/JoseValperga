@@ -6,7 +6,7 @@ A lo largo de mi vida laboral he adquirido experiencia con distintos modelos de 
 En mis comienzos, he desarrollado software para PYMES, enfocándome en la gestión empresarial, obteniendo un Master en Dirección de Empresas. Actualmente he potenciado mis experiencias capacitándome en tecnologías para brindar soluciones IT: React.js, JavaScript, Node.js, Express, Sequalize, PostgreSQL, MySql, HTML, CSS, Microsoft Power BI y Tableau y Microsoft Excel.
 
 Mi objetivo es continuar mi vida laboral en empresas me permitan aportar toda esa experiencia, agregando valor a la toma de decisiones desde los datos y la tecnología.
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+ 
 <!--
 **JoseValperga/JoseValperga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,12 +27,14 @@ Here are some ideas to get you started:
 <!--
 ![JavaScript](https://img.freepik.com/vector-premium/diseno-computadora-sobre-fondo-azul-ilustracion-vectorial_24908-44354.jpg){width=300}
 -->
-
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+ <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[Static Badge](https://img.shields.io/badge/PostgreSQL?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=101010)
 
 </br>
 Y alguna más...
