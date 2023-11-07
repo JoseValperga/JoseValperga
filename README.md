@@ -1,3 +1,4 @@
+<img src="https://github.com/JoseValperga/JoseValperga/blob/main/WhatsApp%20Image%202022-06-12%20at%2012.55.18%20PM.jpeg" style="height: 30%; width:30%;"/>
 ### Hi there 👋
 ## Ingeniero, apasionado por el desarrollo web y por encontrar insights dentro de los sets de datos, con más de 15 años de experiencia gerencial en empresas comerciales, industriales y de servicios, lo que me ha brindado el plus de potenciar un equipo de trabajo colaborando con capacidad analítica y de resolución de problemas, además de organización. 
 
