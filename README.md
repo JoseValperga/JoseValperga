@@ -1,10 +1,11 @@
 
 ### Hi there 👋
 ## Ingeniero, apasionado por el desarrollo web y por encontrar insights dentro de los sets de datos, con más de 15 años de experiencia gerencial en empresas comerciales, industriales y de servicios, lo que me ha brindado el plus de potenciar un equipo de trabajo colaborando con capacidad analítica y de resolución de problemas, además de organización. 
+
 <div align=center> 
 <img src="https://github.com/JoseValperga/JoseValperga/blob/main/WhatsApp%20Image%202022-06-12%20at%2012.55.18%20PM.jpeg" style="height: 30%; width:30%;"/>
-
 </div>
+
 A lo largo de mi vida laboral he adquirido experiencia con distintos modelos de negocios, tanto industriales como comerciales y de servicios, lo que me permite conocerlos y analizarlos rápidamente y en profundidad, brindando soluciones rápidamente. 
 
 En mis comienzos, he desarrollado software para PYMES, enfocándome en la gestión empresarial, obteniendo un Master en Dirección de Empresas. Actualmente he potenciado mis experiencias capacitándome en tecnologías para brindar soluciones IT: React.js, JavaScript, Node.js, Express, Sequalize, PostgreSQL, MySql, HTML, CSS, Microsoft Power BI y Tableau y Microsoft Excel.
