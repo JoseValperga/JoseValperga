@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Tecnologías:
 <!--
+## Tecnologías:
+
 ![JavaScript](https://img.freepik.com/vector-premium/diseno-computadora-sobre-fondo-azul-ilustracion-vectorial_24908-44354.jpg){width=300}
 -->
 <div align=center><h1>📚 STACKS</h1></div>
