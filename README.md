@@ -6,11 +6,11 @@
 <img src="https://github.com/JoseValperga/JoseValperga/blob/main/WhatsApp%20Image%202022-06-12%20at%2012.55.18%20PM.jpeg" style="height: 30%; width:30%;"/>
 </div>
 
-A lo largo de mi vida laboral he adquirido experiencia con distintos modelos de negocios, tanto industriales como comerciales y de servicios, lo que me permite conocerlos y analizarlos rápidamente y en profundidad, brindando soluciones rápidamente. 
+#### A lo largo de mi vida laboral he adquirido experiencia con distintos modelos de negocios, tanto industriales como comerciales y de servicios, lo que me permite conocerlos y analizarlos rápidamente y en profundidad, brindando soluciones rápidamente. 
 
-En mis comienzos, he desarrollado software para PYMES, enfocándome en la gestión empresarial, obteniendo un Master en Dirección de Empresas. Actualmente he potenciado mis experiencias capacitándome en tecnologías para brindar soluciones IT: React.js, JavaScript, Node.js, Express, Sequalize, PostgreSQL, MySql, HTML, CSS, Microsoft Power BI y Tableau y Microsoft Excel.
+#### En mis comienzos, he desarrollado software para PYMES, enfocándome en la gestión empresarial, obteniendo un Master en Dirección de Empresas. Actualmente he potenciado mis experiencias capacitándome en tecnologías para brindar soluciones IT: React.js, JavaScript, Node.js, Express, Sequalize, PostgreSQL, MySql, HTML, CSS, Microsoft Power BI y Tableau y Microsoft Excel.
 
-Mi objetivo es continuar mi vida laboral en empresas me permitan aportar toda esa experiencia, agregando valor a la toma de decisiones desde los datos y la tecnología.
+#### Mi objetivo es continuar mi vida laboral en empresas me permitan aportar toda esa experiencia, agregando valor a la toma de decisiones desde los datos y la tecnología.
  
 <!--
 **JoseValperga/JoseValperga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,3 +56,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
+
+<h3>Contacto</h3>
+<a href="mailto:jose.valperga@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=black">
